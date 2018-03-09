@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="coin5" size="1600.000000 1073.000000" />
+    <ImageTarget name="coin2" size="1600.000000 1232.000000" />
+    <ImageTarget name="coin1" size="1000.000000 667.000000" />
+    <ImageTarget name="coin10" size="2800.000000 1956.000000" />
+    <ImageTarget name="coin9" size="2000.000000 1200.000000" />
+    <ImageTarget name="coin8" size="1010.000000 555.000000" />
+    <ImageTarget name="coin7" size="1280.000000 960.000000" />
+    <ImageTarget name="coin6" size="1800.000000 1200.000000" />
+    <ImageTarget name="coin4" size="1000.000000 700.000000" />
+    <ImageTarget name="coin3" size="1000.000000 700.000000" />
+  </Tracking>
+</QCARConfig>

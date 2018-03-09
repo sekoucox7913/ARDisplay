@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "640950779878",
+    "firebase_url": "https://fintech-expo.firebaseio.com",
+    "project_id": "fintech-expo",
+    "storage_bucket": "fintech-expo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640950779878:android:5c9c9ecae949d5ce",
+        "android_client_info": {
+          "package_name": "com.maven.TreasureHunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640950779878-g3raq9hat86g6j070ds63nqdgfp3bc71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCpQ0Q2zS3rAWcFQDnCeJmNm9E3yo9r-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
